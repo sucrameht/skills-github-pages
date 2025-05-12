@@ -2,3 +2,9 @@ theme: minima
 title: 404 Expertise Not Found
 author: Marcus Lim (@sucrameht)
 description: Learning how to code
+
+minima:
+  social_links:
+    github: sucrameht
+    telegram: sucrameht
+  skin: dark 
