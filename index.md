@@ -10,4 +10,5 @@ I'm just starting out in tech and learning things as I go — whether it's codin
 If you’re also figuring things out, you’re not alone. Thanks for stopping by!
 
 Cheers,
+
 Marcus
